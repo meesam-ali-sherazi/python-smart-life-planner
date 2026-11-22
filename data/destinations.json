@@ -1,0 +1,94 @@
+{
+  "destinations": [
+    {
+      "name": "Murree",
+      "region": "Punjab",
+      "destination_type": "Mountain",
+      "transport_cost_per_person": 5000,
+      "accommodation_cost_per_room_per_night": 6000,
+      "food_cost_per_person_per_day": 2000,
+      "activities_misc_per_person": 1500,
+      "room_capacity": 2
+    },
+    {
+      "name": "Nathiagali",
+      "region": "Khyber Pakhtunkhwa",
+      "destination_type": "Mountain",
+      "transport_cost_per_person": 6000,
+      "accommodation_cost_per_room_per_night": 7000,
+      "food_cost_per_person_per_day": 2200,
+      "activities_misc_per_person": 1800,
+      "room_capacity": 2
+    },
+    {
+      "name": "Swat",
+      "region": "Khyber Pakhtunkhwa",
+      "destination_type": "Mountain",
+      "transport_cost_per_person": 8000,
+      "accommodation_cost_per_room_per_night": 5000,
+      "food_cost_per_person_per_day": 1800,
+      "activities_misc_per_person": 2000,
+      "room_capacity": 3
+    },
+    {
+      "name": "Kalam",
+      "region": "Khyber Pakhtunkhwa",
+      "destination_type": "Mountain",
+      "transport_cost_per_person": 10000,
+      "accommodation_cost_per_room_per_night": 6000,
+      "food_cost_per_person_per_day": 2000,
+      "activities_misc_per_person": 2500,
+      "room_capacity": 3
+    },
+    {
+      "name": "Hunza",
+      "region": "Gilgit-Baltistan",
+      "destination_type": "Mountain",
+      "transport_cost_per_person": 18000,
+      "accommodation_cost_per_room_per_night": 8000,
+      "food_cost_per_person_per_day": 2500,
+      "activities_misc_per_person": 3000,
+      "room_capacity": 2
+    },
+    {
+      "name": "Skardu",
+      "region": "Gilgit-Baltistan",
+      "destination_type": "Mountain",
+      "transport_cost_per_person": 20000,
+      "accommodation_cost_per_room_per_night": 9000,
+      "food_cost_per_person_per_day": 2700,
+      "activities_misc_per_person": 3500,
+      "room_capacity": 2
+    },
+    {
+      "name": "Naran",
+      "region": "Khyber Pakhtunkhwa",
+      "destination_type": "Mountain",
+      "transport_cost_per_person": 9000,
+      "accommodation_cost_per_room_per_night": 6000,
+      "food_cost_per_person_per_day": 2000,
+      "activities_misc_per_person": 2000,
+      "room_capacity": 3
+    },
+    {
+      "name": "Lahore",
+      "region": "Punjab",
+      "destination_type": "City",
+      "transport_cost_per_person": 4000,
+      "accommodation_cost_per_room_per_night": 5000,
+      "food_cost_per_person_per_day": 1800,
+      "activities_misc_per_person": 2000,
+      "room_capacity": 2
+    },
+    {
+      "name": "Islamabad",
+      "region": "Federal Capital",
+      "destination_type": "City",
+      "transport_cost_per_person": 3000,
+      "accommodation_cost_per_room_per_night": 6500,
+      "food_cost_per_person_per_day": 2200,
+      "activities_misc_per_person": 1500,
+      "room_capacity": 2
+    }
+  ]
+}
